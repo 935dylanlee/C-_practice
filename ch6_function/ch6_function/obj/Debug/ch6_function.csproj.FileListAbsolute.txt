@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\ch6\ch6\ch6_function\ch6_function\bin\Debug\ch6_function.exe.config
+C:\Users\USER\Desktop\ch6\ch6\ch6_function\ch6_function\bin\Debug\ch6_function.exe
+C:\Users\USER\Desktop\ch6\ch6\ch6_function\ch6_function\bin\Debug\ch6_function.pdb
+C:\Users\USER\Desktop\ch6\ch6\ch6_function\ch6_function\obj\Debug\ch6_function.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\ch6\ch6\ch6_function\ch6_function\obj\Debug\ch6_function.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ch6\ch6\ch6_function\ch6_function\obj\Debug\ch6_function.exe
+C:\Users\USER\Desktop\ch6\ch6\ch6_function\ch6_function\obj\Debug\ch6_function.pdb
