@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\ch6\ch6\ch6\bin\Debug\ch6.exe.config
+C:\Users\USER\Desktop\ch6\ch6\ch6\bin\Debug\ch6.exe
+C:\Users\USER\Desktop\ch6\ch6\ch6\bin\Debug\ch6.pdb
+C:\Users\USER\Desktop\ch6\ch6\ch6\obj\Debug\ch6.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\ch6\ch6\ch6\obj\Debug\ch6.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ch6\ch6\ch6\obj\Debug\ch6.exe
+C:\Users\USER\Desktop\ch6\ch6\ch6\obj\Debug\ch6.pdb
